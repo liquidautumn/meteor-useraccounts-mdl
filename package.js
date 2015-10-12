@@ -1,6 +1,6 @@
 Package.describe({
-  summary: 'Accounts Templates styled for Materialize Css.',
-  version: '0.99.1',
+  summary: 'Accounts Templates styled for Material Design Lite.',
+  version: '0.99.2',
   name: 'liquidautumn:useraccounts-mdl',
   git: 'https://github.com/liquidautumn/meteor-useraccounts-mdl.git',
 });
